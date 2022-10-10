@@ -2,12 +2,9 @@
 
 <h2> C'est quoi ? / why is ? </h2>
 
-<p> Les "Watchs", sont une particularité de chez Becode.org, dans lequel nous devons parler d'un sujet en lien avec la cyber-sécurité ou l'IT, chaque jour vers 13h30</p>
+<p> Les "Watchs", sont une particularité de chez Becode.org, dans lequel nous devons parler d'un sujet en lien avec la cyber-sécurité ou l'IT, chaque jour vers 13h30, d'une durée d'environ 10/15 minutes </p>
 
-<p> The "Watchs", is a Particulary from becode.org, when i talk about cyber-security or it subjets each day at 13h30</p>
-
-<p> a list of my all presentations when i make during my bootcamp on becode.org </p>
-<p> une liste de toutes les présentations que j'ai faites durant mon bootcamp chez becode.org </p>
+<p> The "Watchs", is a Particulary from becode.org, when i talk about cyber-security or it subjets each day at 13h30 approximatly 10 to 15 minutes</p>
 
 
 <h2> Cyber-Security on Space </h2>
