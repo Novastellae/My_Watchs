@@ -1,4 +1,5 @@
 <h1> <u>My Watch</u> </h1>
+<hr size ="12">
 
 <h2> C'est quoi ? / why is ? </h2>
 
@@ -8,6 +9,7 @@
 
 
 <h2><u> Cyber-Security on Space</u> </h2>
+<hr size ="12">
 
 <p> J'explique en quoi la défaillance et le piratage des satellites tounant autour de la terre, pourrait-être un probléme pour une entreprise, et pour le citoyen/la citoyenne dans la vie de toute les jours </p>
 
@@ -17,6 +19,7 @@
 
 
 <h2><u> Extensions de sécurité pour Firefox et Chrome </u></h2>
+<hr size ="12">
 
 <p> Découvrez les différentes extensions pour sécuriser votre vie privée et votre navigation web, sur firefox et sur chrome </p>
 <p> discover all differents extensions for web navigation and securise you private life, on firefox and chrome </p>
@@ -24,6 +27,7 @@
 <a href ="https://github.com/Novastellae/My_Watchs/blob/main/Extensions_de_securite_pour_firefox_et_chrome.pdf" > Extensions_de_Securité_Firefox_Chrome </a>
 
 <h2><u> Green IT </u></h2>
+<hr size ="12">
 
 <p> Découvrez l'impact écologique de L'IT </p>
 <p> discover the ecological impact of IT </p>
@@ -31,11 +35,13 @@
 <a href ="https://github.com/Novastellae/My_Watchs/blob/main/Green_IT.pdf" > Green IT </a>
 
 <h2> <u>Introduction au logiciel libre </u></h2>
+<hr size ="12">
 <p> Introduction au logiciel libre, sa philosophie, et présentation d'alternatives aux logiciels et sites des GAFAM </p>
 <p> Free Philosofy softwares introduction, and some alternatives to GAFAM. </p>
 <a href ="https://github.com/Novastellae/My_Watchs/blob/main/Introduction_LogicielLibre_Mitnick1_09_06_2022_JVolbout.pdf" > Introduction LogicielLibre</a>
 
 <h2><u> Wifi 6, Lifi, Starlink </u> </h2>
+<hr size ="12">
 <p> une introduction a de nouvelles technologies émergentes ou déja existantes de l'internet sans fil </p>
 <p> introduction to new wireless technologies </p>
 
