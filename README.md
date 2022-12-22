@@ -37,17 +37,13 @@
 <h2> <u>Introduction au logiciel libre </u></h2>
 <hr size ="12">
 <p> Introduction au logiciel libre, sa philosophie, et présentation d'alternatives aux logiciels et sites des GAFAM </p>
-<p> Free Philosofy softwares introduction, and some alternatives to GAFAM. </p>
+<p> Free softwares philosofy  introduction, and some alternatives to GAFAM. </p>
 <a href ="https://github.com/Novastellae/My_Watchs/blob/main/Introduction_LogicielLibre_Mitnick1_09_06_2022_JVolbout.pdf" > Introduction LogicielLibre</a>
 
 <h2><u> Starlink </u> </h2>
 <hr size ="12">
 <p> Présentation de la technologie d'internet par satellite : Starlink </p>
 <p> introduction to Starlink technology (Internet by satellite) </p>
-
-<p><a href ="> </a> </p>
+<p><a href ="> test </a> </p>
 
 <h2><u> European Cybersecurity, Norms & Frameworks (Ma dernière watch de la formation) </u> </h2>
-<p> Présentation des normes cyber et des cyberframeworks en UE </p>
-<p> presentation of cybernorm and cyberframeworks in UE ! </p>
-<a href ="> </a>
