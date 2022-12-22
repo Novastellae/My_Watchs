@@ -45,4 +45,9 @@
 <p> Présentation de la technologie d'internet par satellite : Starlink </p>
 <p> introduction to Starlink technology (Internet by satellite) </p>
 
-<p> Comming Soon !!!! / Bientôt Disponible</p>
+<p><a href ="> </a> </p>
+
+<h2><u> European Cybersecurity, Norms & Frameworks (Ma dernière watch de la formation) </u> </h2>
+<p> Présentation des normes cyber et des cyberframeworks en UE </p>
+<p> presentation of cybernorm and cyberframeworks in UE ! </p>
+<a href ="> </a>
