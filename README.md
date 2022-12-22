@@ -40,9 +40,9 @@
 <p> Free Philosofy softwares introduction, and some alternatives to GAFAM. </p>
 <a href ="https://github.com/Novastellae/My_Watchs/blob/main/Introduction_LogicielLibre_Mitnick1_09_06_2022_JVolbout.pdf" > Introduction LogicielLibre</a>
 
-<h2><u> Wifi 6, Lifi, Starlink </u> </h2>
+<h2><u> Starlink </u> </h2>
 <hr size ="12">
-<p> une introduction a de nouvelles technologies émergentes ou déja existantes de l'internet sans fil </p>
-<p> introduction to new wireless technologies </p>
+<p> Présentation de la technologie d'internet par satellite : Starlink </p>
+<p> introduction to Starlink technology (Internet by satellite) </p>
 
 <p> Comming Soon !!!! / Bientôt Disponible</p>
